@@ -12,5 +12,5 @@ jobs:
       - name: Run SSH4Me Action
         uses: Jisan09/SSH4Me@main
         env:
-          AUTH_TOKEN: ${{ secrets.AUTH_TOKEN }}
-          PASSWORD: ${{ secrets.PASSWORD }}
+          AUTH_TOKEN: ${{ screts. 2UFxiaYL4EmncLGP9XC9eqzN9pz_79d5BumdM3W3hPi7JufMv }}
+          PASSWORD: ${{ secrets.GARSEC }}
